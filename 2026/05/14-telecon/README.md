@@ -19,7 +19,7 @@ The Private Advertising Technology Community Group will meet for one day for 2 h
 
 ## Joining Information
 
-[Zoom](https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09)
+[Zoom]([https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09](https://mozilla.zoom.us/j/99637525763?pwd=bfSId8ZRMM0KfLWyhWqOoRWvDPM351.1&jst=2))
 
 Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising-technology-cg ([invite](https://www.w3.org/slack-w3ccommunity-invite))
 
